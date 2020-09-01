@@ -2,3 +2,13 @@ body {
 	display: grid;
 	grid-template-columns: 2fr 8fr
 }
+
+#list-panel {
+	padding-right: 2em;
+	border-right: solid 1px;
+}
+
+#show-panel {
+	padding-right: 2em;
+	padding-left: 2em;
+}
